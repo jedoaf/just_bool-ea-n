@@ -1,0 +1,7 @@
+backend/static/react/*
+backend/templates/
+
+frontend/node_modules/
+frontend/.eslintcache
+
+.vscode
